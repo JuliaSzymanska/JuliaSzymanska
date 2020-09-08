@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Julia</h1>
-[![Github](https://img.shields.io/github/followers/juliaszymanska?label=Followers&logo=Github)](https://github.com/juliaszymanska)
+
+[![Github](https://img.shields.io/github/followers/juliaszymanska?label=Follow&style=social)](https://github.com/juliaszymanska)
 
 <h2 align="center">
   I am a 3rd-year Information Technology student full of passion and commitment. 
