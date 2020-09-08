@@ -10,7 +10,7 @@
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=juliaszymanska.juliaszymanska) 
 <img align="centre" src="(https://img.shields.io/github/followers/juliaszymanska?label=Follow&style=social)"/> -->
 
-- 🔭 I’m currently working on [mobile application](https://github.com/JuliaSzymanska/Mobile_App)
+- 💻 I’m currently working on [Mobile Application](https://github.com/JuliaSzymanska/Mobile_App)
 - 🌱 I’m 
 - 💬 Ask me about anything you want. 
 - 📫 Reach me by an email 📧: szymanska.julia.it@gmail.com
@@ -39,6 +39,6 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaszymanska&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=juliaszymanska&&show_icons=true&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=juliaszymanska&&show_icons=true&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=juliaszymanska&&show_icons=true&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038" />
 </a>
 </div>
