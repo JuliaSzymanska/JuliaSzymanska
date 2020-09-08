@@ -35,10 +35,11 @@
 ## :trophy: My Github Stats: 
 
 <div>
+ <a href="https://github-readme-stats.vercel.app/api?username=juliaszymanska&&show_icons=true&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=juliaszymanska&&show_icons=true&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038" />
+</a>
+ 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaszymanska&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038">
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaszymanska&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=juliaszymanska&&show_icons=true&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=juliaszymanska&&show_icons=true&title_color=7deeff&icon_color=56cadb&text_color=d9faff&bg_color=023038" />
 </a>
 </div>
