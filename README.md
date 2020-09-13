@@ -11,7 +11,7 @@
 <img align="centre" src="(https://img.shields.io/github/followers/juliaszymanska?label=Follow&style=social)"/> -->
 
 - 💻 I’m currently working on [Mobile Application](https://github.com/JuliaSzymanska/Mobile_App) 
-- 📫 Reach me by an email 📧: szymanska.julia.it@gmail.com
+- 📫 Reach me by email 📧: szymanska.julia.it@gmail.com
 <!-- - 🌱 I’m -->
 <br />
 
