@@ -10,8 +10,7 @@
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=juliaszymanska.juliaszymanska) 
 <img align="centre" src="(https://img.shields.io/github/followers/juliaszymanska?label=Follow&style=social)"/> -->
 
-- 💻 I’m currently working on [Mobile Application](https://github.com/JuliaSzymanska/Mobile_App)
-- 💬 Ask me about anything you want. 
+- 💻 I’m currently working on [Mobile Application](https://github.com/JuliaSzymanska/Mobile_App) 
 - 📫 Reach me by an email 📧: szymanska.julia.it@gmail.com
 <!-- - 🌱 I’m -->
 <br />
