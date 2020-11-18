@@ -10,7 +10,7 @@
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=juliaszymanska.juliaszymanska) 
 <img align="centre" src="(https://img.shields.io/github/followers/juliaszymanska?label=Follow&style=social)"/> -->
 
-- 💻 I’m currently working on [Mobile Application](https://github.com/JuliaSzymanska/Mobile_App) 
+- 💻 I’m currently working on [Self-Diagnosis](https://github.com/JuliaSzymanska/Self-Diagnosis) 
 - 📫 Reach me by email 📧: szymanska.julia.it@gmail.com
 <!-- - 🌱 I’m -->
 <br />
