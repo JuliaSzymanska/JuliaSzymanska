@@ -7,10 +7,10 @@
 ## I am a 3rd-year Information Technology student full of passion and commitment. 
 <br />
 
-<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=juliaszymanska.juliaszymanska) 
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=juliaszymanska.juliaszymanska) and [Cyfrowe-Przetwarzanie-Sygnalu](https://github.com/ZdrzalikPrzemyslaw/Cyfrowe-Przetwarzanie-Sygnalu)
 <img align="centre" src="(https://img.shields.io/github/followers/juliaszymanska?label=Follow&style=social)"/> -->
 
-- 💻 I’m currently working on [Self-Diagnosis](https://github.com/JuliaSzymanska/Self-Diagnosis) 
+- 💻 I’m currently working on [Computer-Recognition-Systems](https://github.com/JuliaSzymanska/Computer-Recognition-Systems)
 - 📫 Reach me by email 📧: szymanska.julia.it@gmail.com
 <!-- - 🌱 I’m -->
 <br />
