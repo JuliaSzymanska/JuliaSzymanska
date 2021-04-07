@@ -10,10 +10,18 @@
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=juliaszymanska.juliaszymanska) 
 <img align="centre" src="(https://img.shields.io/github/followers/juliaszymanska?label=Follow&style=social)"/> -->
 
-- 💻 I’m currently working on [Computer-Recognition-Systems](https://github.com/JuliaSzymanska/Computer-Recognition-Systems) and [Cyfrowe-Przetwarzanie-Sygnalu](https://github.com/ZdrzalikPrzemyslaw/Cyfrowe-Przetwarzanie-Sygnalu)
-- 📫 Reach me by email 📧: szymanska.julia.it@gmail.com
-<!-- - 🌱 I’m -->
-<br />
+## 💻 I’m currently working on:
+- [Computer-Recognition-Systems](https://github.com/JuliaSzymanska/Computer-Recognition-Systems) 
+- [Cyfrowe-Przetwarzanie-Sygnalu](https://github.com/ZdrzalikPrzemyslaw/Cyfrowe-Przetwarzanie-Sygnalu)
+
+## 📚 At the moment I am learing
+- [Spring](https://spring.io/)
+- [Hibernate](https://hibernate.org/)
+- [Jakarta EE](https://jakarta.ee/)
+- [PostgreSQL](https://www.postgresql.org/)
+
+## 📫 Reach me by email 📧: 
+<szymanska.julia.it@gmail.com>
 
 ## 🛠 Languages and Tools: 
 
