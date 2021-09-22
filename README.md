@@ -4,9 +4,11 @@
 
 ## I am a 3rd-year Information Technology student full of passion and commitment. 
 
-## 💻 I’m currently working on:
-- [Computer-Recognition-Systems](https://github.com/JuliaSzymanska/Computer-Recognition-Systems) 
-- [Cyfrowe-Przetwarzanie-Sygnalu](https://github.com/ZdrzalikPrzemyslaw/Cyfrowe-Przetwarzanie-Sygnalu)
+## 🏆 Achievements
+- 3rd place in Europe in [Credit Suisse Global Coding Challenge](https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/)
+  - [My solutions](https://github.com/JuliaSzymanska/Global-Coding-Challange-2020)
+- 2nd place in the college competition - [‘The designing of mobile applications’](https://p.lodz.pl/arch/pl/studenci-pl-zaprojektowali-mobilne-aplikacje) organized by Lodz University of Technology with cooperation of such companies as TomTom and Cybercom Poland.
+  - [My application](https://github.com/JuliaSzymanska/Self-Diagnosis)
 
 ## 📚 At the moment I am learing
 - [Spring](https://spring.io/)
