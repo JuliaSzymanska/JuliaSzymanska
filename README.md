@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=juliaszymanska.juliaszymanska) [![Github](https://img.shields.io/github/followers/juliaszymanska?label=Followers&logo=Github)](https://github.com/juliaszymanska)
 
-## I am a 3rd-year Information Technology student full of passion and commitment. 
+## 🎓 I am a Bachelor of Information Technology, currently working on my masters degree.
 
 ## 🏆 Achievements
 - 3rd place in Europe in [Credit Suisse Global Coding Challenge](https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/)
