@@ -44,8 +44,6 @@ I am currently working on my masters degree.
   <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.jirastrategy.com/wp-content/uploads/2020/02/jira-logo-gradient-blue@2x-300x177.png" alt="Jira" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
-
 </p>
 
 <br />
