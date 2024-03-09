@@ -17,7 +17,7 @@
 - [LLM](https://en.wikipedia.org/wiki/Large_language_model)
 
 ## 📫 Reach me by email 📧: 
-<szymanska.julia.it@gmail.com>z
+<szymanska.julia.it@gmail.com>
 
 ## 🛠 Languages and Tools: 
 
