@@ -2,8 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=juliaszymanska.juliaszymanska) [![Github](https://img.shields.io/github/followers/juliaszymanska?label=Followers&logo=Github)](https://github.com/juliaszymanska)
 
-## 🎓 I am a Bachelor of Information Technology
-I am currently working on my masters degree.
+## 🎓 I am a Master of Information Technology
 
 ## 🏆 Achievements
 - 3rd place in Europe in [Credit Suisse Global Coding Challenge](https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/)
@@ -12,13 +11,13 @@ I am currently working on my masters degree.
   - [My application](https://github.com/JuliaSzymanska/Self-Diagnosis)
 
 ## 📚 At the moment I am learing
-- [Spring](https://spring.io/)
-- [Hibernate](https://hibernate.org/)
-- [Jakarta EE](https://jakarta.ee/)
-- [PostgreSQL](https://www.postgresql.org/)
+- [React Native](https://reactnative.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [OpenAI (ChatGPT/DallE)](https://openai.com/)
+- [LLM](https://en.wikipedia.org/wiki/Large_language_model)
 
 ## 📫 Reach me by email 📧: 
-<szymanska.julia.it@gmail.com>
+<szymanska.julia.it@gmail.com>z
 
 ## 🛠 Languages and Tools: 
 
@@ -36,7 +35,8 @@ I am currently working on my masters degree.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Css" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JacaScript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+    <img src="(https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png)" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="ReactNative" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.sencha.com/wp-content/uploads/2019/06/logo-SenchaExtJS.png" alt="ExtJS" height="40" style="vertical-align:top; margin:4px">
